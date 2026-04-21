@@ -1,0 +1,14 @@
+# Contributing to Biocode Innovators AI Chatbot
+
+Thank you for your interest in contributing! We are thrilled to have you here.
+
+## How to Contribute
+1. **Report Bugs:** Open an issue if you find a bug.
+2. **Suggest Features:** Have an idea for bioinformatics or AI? Open an issue!
+3. **Submit Code:** 
+   - Fork the repository.
+   - Create a new branch (`git checkout -b feature-name`).
+   - Make your changes and test them.
+   - Submit a Pull Request (PR) explaining your changes.
+
+Together, we can make biological data and AI education more accessible!
