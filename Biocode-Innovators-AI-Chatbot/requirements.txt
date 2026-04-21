@@ -1,0 +1,22 @@
+# --- AI & Natural Language Processing (NLU) ---
+langchain>=0.1.0        # For building context-aware AI applications and memory
+openai>=1.12.0          # If using OpenAI's models for response generation
+# google-generativeai   # (Uncomment if using Google Gemini models instead)
+transformers>=4.38.0    # For local NLU and language models (Hugging Face)
+spacy>=3.7.4            # For advanced Natural Language Understanding
+
+# --- Bioinformatics Domain Support ---
+biopython>=1.83         # Essential for bioinformatics data and parsing
+
+# --- Web Framework & API (For Scalable Architecture) ---
+fastapi>=0.109.2        # Modern, fast web framework for building the chatbot API
+uvicorn>=0.27.1         # ASGI server to run the FastAPI application
+pydantic>=2.6.1         # For data validation and structured responses
+
+# --- Vector Database & Memory (For Context & Continuous Learning) ---
+chromadb>=0.4.22        # Vector database for storing and retrieving knowledge
+# faiss-cpu>=1.7.4      # (Alternative to Chroma for fast similarity search)
+
+# --- Utilities ---
+python-dotenv>=1.0.1    # For securely managing API keys and environment variables
+requests>=2.31.0        # For making external API calls
